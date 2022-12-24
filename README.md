@@ -1,3 +1,20 @@
+<h1>Chatroom build with ReactJS & Firebase</h1>
+<h3>Steps to clone the GitHub Repo</h3>
+<ol>
+  <li>Create Firebase Database</li>
+  <li>Create "messages" Collection</li>
+  <li>Edit in src/App.js the "firebase config</li>
+   <li>TerminaL npm start</li>
+   <li>Have fun 😊</li>
+
+</pl>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@serdarplg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@serdarplg" height="30" width="40" /></a>
+</p>
+<p>Twitter: @serdarplg</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
